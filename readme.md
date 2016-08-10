@@ -17,13 +17,13 @@ Execute CodeSniffer
 
 The recommended way is to install it globally with the following command:
 
-    composer global require pragmarx/laravelcs
+    composer global require storyhunter/laravelcs
 
 Make sure you have `~/.composer/vendor/bin/` in your PATH.
 
 You will then be able to run PHP Code Sniffer with the Laravel Standard:
 
-    phpcs --standard=$HOME/.composer/vendor/pragmarx/laravelcs/Standards/Laravel/ /path/to/your/project/files
+    phpcs --standard=$HOME/.composer/vendor/storyhunter/laravelcs/Standards/Laravel/ /path/to/your/project/files
 
 ###Testing the Sniff
 

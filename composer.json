@@ -1,5 +1,5 @@
 {
-  "name": "pragmarx/laravelcs",
+  "name": "storyhunter/laravelcs",
   "description": "PHP_CodeSniffer custom Sniff for Laravel coding standard",
   "keywords": ["laravel", "code", "sniffer", "standards", "PHP_CodeSniffer"],
   "license": "BSD-3-Clause",
@@ -8,6 +8,10 @@
       "name": "Antonio Carlos Ribeiro",
       "email": "acr@antoniocarlosribeiro.com",
       "role": "Creator"
+    },{
+      "name": "Doug Wehmeier",
+      "email": "dougw@storyhunter.com",
+      "role": "Developer"
     }
   ],
   "minimum-stability": "stable",
